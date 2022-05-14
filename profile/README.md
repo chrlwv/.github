@@ -1,12 +1,7 @@
-## Hi there 👋
+> <img style="border-radius: 300px;" src="https://japi.rest/discord/v1/user/902937010103275581/avatar?size=512" width="20"/> Charliewave<strong>#1754</strong><br/> chrlwv/client run-source repo.
 
-<!--
+A multipurpose discord bot written in **javascript**, that can be used by users to enjoy discord community server by help of our bot.
 
-**Here are some ideas to get you started:**
+## Widgets
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://chrlwv.tech" ><img style="border-radius: 34px;" src="https://i.imgur.com/CVYoM6s.png" width="456"/><a/>
